@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Tribute to Ratan Tata</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            background: linear-gradient(to right, #f06, #ff8c00); /* Gradient Background */
+            color: white;
+            text-align: center;
+            padding: 50px 20px;
+        }
+
+        header {
+            margin-bottom: 40px;
+        }
+
+        header h1 {
+            font-size: 4rem;
+            font-weight: bold;
+            text-transform: uppercase;
+            text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+            text-align: center;
+        }
+
+        header p {
+            font-size: 1.5rem;
+            color: #dcdcdc;
+            font-style: italic;
+            margin-top: 10px;
+        }
+
+        .tribute-container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 30px;
+            background-color: rgba(0, 0, 0, 0.7);
+            border-radius: 12px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+        }
+
+        .tribute-container h2 {
+            font-size: 2.5rem;
+            margin-bottom: 15px;
+        }
+
+        .tribute-container p {
+            font-size: 1.1rem;
+            color: #eaeaea;
+            margin-bottom: 25px;
+            line-height: 1.8;
+        }
+
+        .tribute-container img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 12px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+        }
+
+        .quote-section {
+            background-color: #333;
+            padding: 20px;
+            border-radius: 12px;
+            margin-top: 30px;
+        }
+
+        .quote-section blockquote {
+            font-size: 1.8rem;
+            font-style: italic;
+            color: #fff;
+            margin: 0;
+            line-height: 1.6;
+        }
+
+        .quote-section footer {
+            font-size: 1.2rem;
+            color: #f0f0f0;
+            margin-top: 10px;
+        }
+
+        .footer {
+            margin-top: 50px;
+            font-size: 1rem;
+            color: #dcdcdc;
+        }
+        marquee{
+            direction: down;
+        }
+
+        .footer a {
+            color: #ff8c00;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .footer a:hover {
+            text-decoration: underline;
+        }
+        p{
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <marquee direction="down";>
+
+    <header>
+        <h1>Ratan Tata</h1>
+        <p>A Visionary Leader & Inspiration</p>
+    </header>
+
+    <div class="tribute-container">
+        <h2>About Ratan Tata</h2>
+        <p>
+            Ratan Tata is a prominent Indian industrialist and the former chairman of the Tata Group,
+            one of the biggest and most respected conglomerates in India. Known for his visionary leadership,
+            Ratan Tata took the Tata Group to new heights and is admired worldwide for his values, business acumen, and philanthropy.
+        </p>
+
+        <img src="C:\Users\CSE\Downloads\tata.jpg" alt="Ratan Tata">
+
+        <div class="quote-section">
+            <blockquote>
+                "I don't believe in taking right decisions. I take decisions and then make them right."
+            </blockquote>
+            <footer>– Ratan Tata</footer>
+        </div>
+    </div>
+
+    <div class="footer">
+        <p>Tribute page designed by <a href="https://www.instagram.com" target="_blank">Yogesh kadwe</a></p>
+    </div>
+</marquee>
+</body>
+</html>
