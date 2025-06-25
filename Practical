@@ -1,0 +1,504 @@
+[25/06, 6:56 am] Yogesh Kadwe: <html>
+
+<h1>Himani [CS24011]</h1>
+
+<h3 align="center">practical 1</h3>
+
+■ <body bgcolor="yellow">
+
+<p>Painting is a <b>visual art</b> that involves applying paint to a surface to create an inge/> |<br>Painting is important because they can help with creativity, self-expressin and brain health.</p>
+
+<h4 style="color:aqua">Painting provides a stress relief</h4>
+
+3 <img src="C:\Users\SBJITMR\Desktop\na.jpg">
+
+</body>
+
+> </html>>
+[25/06, 6:56 am] Yogesh Kadwe: <!DOCTYPE html>
+<html>
+<head>
+    <title>Practical No 2</title>
+</head>
+<body>
+    <h3>Yogesh CS24188</h3>
+    <h1 align="center">Founder of an Programming Language </h1>
+ <ol>
+        <li>C Language :Dennis Richie</li>
+        <li>HTML : Tim Berness-lee</Berness-lee> </li>
+        <li>C++ : Bjarne Stroustrup</li>
+        <li>Java : James Gosling</li>
+        <li>Python : Guido van Rossum</li>
+    </ol>
+    <ul type="square">
+        <li>C Language :Dennis Richie</li>
+        <li>HTML : Tim Berness-lee</Berness-lee> </li>
+        <li>C++ : Bjarne Stroustrup</li>
+        <li>Java : James Gosling</li>
+        <li>Python : Guido van Rossum</li>
+    </ul>
+    <dl>
+        <dt>Founder of Language</dt>
+        <dd>C language:Dennis Richie</dd>
+        <dd>HTML : Tim Berness-lee</dd>
+        <dd>Java : James Gosling</dd>
+        <dd>Python : Guido van Rossum</dd>
+        <dd>C++ : Bjarne Stroustrup</dd>
+    </dl>
+</body>
+</html>
+[25/06, 6:56 am] Yogesh Kadwe: <!DOCTYPE html>
+<html>
+<head>
+<title>Yogesh CS24188</title>
+</head>
+<body>
+    <h3>Hyperlink</h3>
+<a href="2nd.html">CLick Here to found the founder of Programming languge</a>
+</body>
+</html>
+[25/06, 6:56 am] Yogesh Kadwe: <!DOCTYPE html>
+<html>                        
+  <head>
+    <title> RESUME</title>
+  </head>
+  <body>
+    <h3 align="center"><u>RESUME</u></h3>
+    <b>Name : </b>Yogesh Jaganrao kadwe<br>
+<img src="C:\Users\Student\Downloads\yk.jpg" hight="100px" width="100px" align="right">
+    <b>Email : </b>kadweyogesh75@gmail.com<br>
+    <b>Address : </b>At- Bhalewadi, Post- Junapani,<br>
+    Tq-Karanja Dist-Wardha State- Maharastra
+  <br>Pin code- 442203<br>
+ <b> Mobile No. : </b>7498964628<br>
+ <b>Github Profile : </b>
+ <a href="github.com/Yogesh-kadwe">Github Profile</a><br>
+ <b>Linkdin : </b><a href="www.linkdin.com">linkdin profile</a><br>
+ <hr style="width:100%;text-align:left;margin: left 5px;">
+ <p>Yogesh Jaganrao Kadwe, born on July 9, 2006, is currently pursuing his first year
+     of Computer Science Engineering (CSE) at SB Jain College. He previously attended
+      Model Junior College in Karanja.</p>
+      <hr style="width:100%;text-align:left;margin-left:0">
+      <b>Educational Details :</b>
+<center>
+      <table border="1" cellspacing="6" cellpadding="6">
+        <tr bgcolor="pink">
+            <th>Sr. No.</th>
+            <th>Board</th>
+            <th>School/College</th>
+            <th>University</th>
+            <th>Passing year</th>
+            <th>Passing Percentage</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>SSC Board</td>
+            <td>Model Highschool Karanja </td>
+            <td rowspan="2">RTMNU</td>
+            <td>2022</td>
+            <td>87.00%</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>HSC Board</td>
+            <td>Model Junior College Karanja </td>
+           
+            <td>2024</td>
+            <td>75%</td>
+        </tr>
+      </table>
+    </center>
+      <hr style="width:100%;text-align:left;margin-left:0">
+      <dl>
+        <dt>Hobbies : </dt>
+        <dd>Reading book</dd>
+        <dd>Playing Cricket</dd>
+        <dd> Travelling</dd>
+        <dd>Codeing</dd>
+      </dl><hr style="width:100%;text-align:left;margin-left:0">
+      <b><i>Interest : </i></b>
+<ul>
+<li>AI Development: Creating intelligent
+     applications using deep learning and neural networks.</li>
+     <li>Machine Learning: Understanding algorithms, data processing,
+         and model training.</li>
+         <li>Web Development: Create a webpages</li>
+</ul>
+<hr style="width:100%;text-align:left;margin-left:0">
+<b><i>Known Langauge:</i></b>
+<ol>
+    <li>Marathi</li>
+    <li>English</li>
+    <li>Hindi</li>
+</ol>
+<hr style="width:100%;text-align:left;margin-left:0">
+<p>
+    I hereby declare that the information provided above is true and
+     correct to the best of my knowledge and belief. I take
+     full responsibility for the accuracy of the details mentioned
+</p>
+<b>Yogesh Jaganrao Kadwe</b><br>
+<b>Date: 20 March 2025</b>
+<hr style="width:100%;text-align:left;margin-left:0">
+  </body>
+</html>
+[25/06, 6:56 am] Yogesh Kadwe: <!DOCTYPE html>
+<html>
+  <head>
+    <title>Scholarship Registration Form</title>
+  </head>
+  <body style="background-image:url(sky.jpg); background-size: cover; background-position: center; background-attachment: fixed; font-family: Arial, sans-serif; margin: 0; padding: 0;">
+    <div style="max-width: 800px; margin: 50px auto; background-color: rgba(255, 255, 255, 0.9); padding: 30px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);">
+      <h1 style="text-align: center; color: #2c3e50; font-family: 'Roboto', sans-serif; font-size: 2.5em; margin-bottom: 30px;">Scholarship Registration Form</h1>
+      
+      <form>
+        <table style="width: 100%; border-collapse: collapse;">
+          <tr>
+            <td style="padding: 12px; font-size: 16px;">Student Name:</td>
+            <td style="padding: 12px;">
+              <input type="text" name="first-name" placeholder="First Name" style="padding: 10px; width: 100%; border-radius: 5px; border: 1px solid #ccc;" required>
+              - 
+              <input type="text" name="last-name" placeholder="Last Name" style="padding: 10px; width: 100%; border-radius: 5px; border: 1px solid #ccc;" required>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding: 12px; font-size: 16px;">Father's Name:</td>
+            <td style="padding: 12px;">
+              <input type="text" name="father-name" style="padding: 10px; width: 100%; border-radius: 5px; border: 1px solid #ccc;" required>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding: 12px; font-size: 16px;">Date of Birth:</td>
+            <td style="padding: 12px;">
+              <input type="date" name="dob" style="padding: 10px; width: 100%; border-radius: 5px; border: 1px solid #ccc;" required>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding: 12px; font-size: 16px;">Mobile No.:</td>
+            <td style="padding: 12px;">
+              <input type="tel" name="mobile" placeholder="+91" style="padding: 10px; width: 100%; border-radius: 5px; border: 1px solid #ccc;"}" required>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding: 12px; font-size: 16px;">Email ID:</td>
+            <td style="padding: 12px;">
+              <input type="email" placeholder="example@gmail.com" style="padding: 10px; width: 100%; border-radius: 5px; border: 1px solid #ccc;" required>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding: 12px; font-size: 16px;">Gender:</td>
+            <td>
+              <input type="radio" name="gender" value="Male" required> Male
+              <input type="radio" name="gender" value="Female" required> Female
+              <input type="radio" name="gender" value="Other" required> Other
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding: 12px; font-size: 16px;">Category:</td>
+            <td style="padding: 12px;">
+              <select name="category" style="padding: 10px; width: 100%; border-radius: 5px; border: 1px solid #ccc;" required>
+                <option value="" disabled selected>---------------------- Select Category ------------------------</option>
+                <option value="OBC">OBC</option>
+                <option value="SC">SC</option>
+                <option value="NT">NT</option>
+                <option value="SBC">SBC</option>
+                <option value="GENERAL">GENERAL</option>
+              </select>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding: 12px; font-size: 16px;">College:</td>
+            <td style="padding: 12px;">
+              <input type="text" name="college" style="padding: 10px; width: 100%; border-radius: 5px; border: 1px solid #ccc;" required>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding: 12px; font-size: 16px;">Address:</td>
+            <td style="padding: 12px;">
+              <textarea name="address" rows="5" style="padding: 10px; width: 100%; border-radius: 5px; border: 1px solid #ccc;" required></textarea>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding: 12px; font-size: 16px;">Student Photo:</td>
+            <td style="padding: 12px;">
+              <input type="file" name="photo" accept="image/*" style="padding: 10px; width: 100%; border-radius: 5px; border: 1px solid #ccc;">
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding: 12px; font-size: 16px;">Marksheet:</td>
+            <td style="padding: 12px;">
+              <input type="file" name="Marksheet" accept="image/*" style="padding: 10px; width: 100%; border-radius: 5px; border: 1px solid #ccc;">
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding: 12px; font-size: 16px;">Leaving Certificate:</td>
+            <td style="padding: 12px;">
+              <input type="file" name="leaving-certificate" accept="image/*" style="padding: 10px; width: 100%; border-radius: 5px; border: 1px solid #ccc;">
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding: 12px; font-size: 16px;">Income Certificate:</td>
+            <td style="padding: 12px;">
+              <input type="file" name="income-certificate" accept="image/*" style="padding: 10px; width: 100%; border-radius: 5px; border: 1px solid #ccc;">
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding: 12px; font-size: 16px;">Aadhar Card:</td>
+            <td style="padding: 12px;">
+              <input type="file" name="aadhar-card" accept="image/*" style="padding: 10px; width: 100%; border-radius: 5px; border: 1px solid #ccc;">
+            </td>
+          </tr>
+
+          <tr>
+            <td colspan="2" style="text-align: center; padding: 20px;">
+              <input type="submit" value="Register" style="padding: 10px 20px; font-size: 16px; background-color: #3498db; color: white; border: none; border-radius: 5px; cursor: pointer; transition: background-color 0.3s ease;">
+            </td>
+          </tr>
+        </table>
+      </form>
+    </div>
+  </body>
+</html>
+[25/06, 6:56 am] Yogesh Kadwe: <html>
+    <body>
+        <h1 align="center">scolarship form</h1>
+            <form>
+                <fieldset>
+        <label align="center">
+            first name
+        </label>
+        <input type="text" placeholder="Enter first name">
+        <br><br>
+        <label align="center">middle name </label>
+        <input type="text" placeholder="Enter father name">
+        <br><br>
+        <label align="center">last name </label>
+        <input type="text" placeholder="Enter last name">
+        <br><br>
+        <label align="center">email</label>
+        <input type="email" placeholder="Enter a email">
+        <br><br>
+        <label align="center"> mob number</label>
+        <input type="number" placeholder="enter number">
+        <br><br>
+        <label align="center"> Gender</label><br>
+        <input type="radio" name="gender">male
+        <input type="radio" name="gender">Female
+        <input type="radio" name="gender">other
+        <br><br>
+       <label align="center">select your qualification</label>
+       <br>
+       <input type="checkbox">10th<br>
+       <input type="checkbox">12th<br>
+       <input type="checkbox">undergradute
+       <br>
+       <select name="select state">
+        <option>maharastra 
+        </option>
+        <option>madyapradesh</option>
+       </select>
+       <br>
+        <input type="submit" name="submit" value="submit">
+        </fieldset>
+    </form>
+    </body>
+</html>
+[25/06, 6:56 am] Yogesh Kadwe: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body bgcolor="skyblue">
+    <h1 align="center"><i>scolorship registation form</i></h1>
+    <form action="">
+        <fieldset>
+        <div align="center">
+        Enter email:<input type="email" placeholder="Enter the email">
+    </div>
+    <br><div align="center">
+        First Name:<input type="password" placeholder="create password">
+        </div>
+        <br>
+        <div align="center">
+           <a href="form2.html"> <input type="button" value="submit" name="submit"></a>
+        </div>
+    </fieldset>
+    </form>
+</body>
+</html>
+[25/06, 6:56 am] Yogesh Kadwe: <!DOCTYPE html>
+<html lang="en">  
+<head>  
+    <meta charset="UTF-8">  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">  
+    <title>Tribute to Ratan Tata</title>  
+    <style>  
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            background: linear-gradient(to right, #f06, #ff8c00);
+            color: white;
+            text-align: center;
+            padding: 50px 20px;
+        }
+
+        header {
+            margin-bottom: 40px;
+        }
+
+        header h1 {
+            font-size: 4rem;
+            font-weight: bold;
+            text-transform: uppercase;
+            text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+        }
+
+        header p {
+            font-size: 1.5rem;
+            color: #dcdcdc;
+            font-style: italic;
+            margin-top: 10px;
+        }
+
+        .tribute-container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 30px;
+            background-color: rgba(0, 0, 0, 0.7);
+            border-radius: 12px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+        }
+
+        .tribute-container h2 {
+            font-size: 2.5rem;
+            margin-bottom: 15px;
+        }
+
+        .tribute-container p {
+            font-size: 1.1rem;
+            color: #eaeaea;
+            margin-bottom: 25px;
+            line-height: 1.8;
+        }
+
+        .tribute-container img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 12px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+        }
+
+        .quote-section {
+            background-color: #333;
+            padding: 20px;
+            border-radius: 12px;
+            margin-top: 30px;
+        }
+
+        .quote-section blockquote {
+            font-size: 1.8rem;
+            font-style: italic;
+            color: #fff;
+            margin: 0;
+            line-height: 1.6;
+        }
+
+        .quote-section footer {
+            font-size: 1.2rem;
+            color: #f0f0f0;
+            margin-top: 10px;
+        }
+
+        .footer {
+            margin-top: 50px;
+            font-size: 1rem;
+            color: #dcdcdc;
+        }
+
+        .footer a {
+            color: #ff8c00;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .footer a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Ratan Tata</h1>
+    <p>A Visionary Leader & Inspiration</p>
+</header>
+
+<div class="tribute-container">
+    <h2>About Ratan Tata</h2>
+    <p>
+        Ratan Tata is a renowned Indian industrialist and philanthropist, best known as the former chairman of Tata Group, India's largest and most respected conglomerate. 
+        Under his leadership, the group expanded globally, acquiring major companies and launching groundbreaking projects.
+    </p>
+
+    <h2>Early Life & Education</h2>
+    <p>
+        Born on December 28, 1937, in Mumbai, India, Ratan Tata was raised by his grandmother after his parents separated. He studied architecture at Cornell University and completed an advanced management program at Harvard Business School.
+        His education shaped his global vision and innovative mindset.
+    </p>
+
+    <h2>Leadership at Tata Group</h2>
+    <p>
+        Ratan Tata became chairman of Tata Group in 1991. During his tenure, the group acquired international brands like Tetley, Corus Steel, and Jaguar Land Rover. 
+        He also introduced the Tata Nano, aimed at making car ownership affordable to the common man in India. His leadership transformed the Tata Group into a global powerhouse.
+    </p>
+
+    <h2>Philanthropy</h2>
+    <p>
+        Ratan Tata is a committed philanthropist. Through Tata Trusts, he has supported causes like education, healthcare, rural development, and disaster relief. 
+        He has donated millions towards cancer research, skill development, and COVID-19 relief efforts.
+    </p>
+
+    <h2>Legacy & Recognition</h2>
+    <p>
+        Ratan Tata has received numerous national and international honors, including the Padma Bhushan and Padma Vibhushan. 
+        He is widely respected for his humility, ethics, and service to society. Even after retirement, he continues to guide young entrepreneurs and startups through investments and mentorship.
+    </p>
+
+    <img src="C:\Users\CSE\Downloads\tata.jpg" alt="Ratan Tata">
+
+    <div class="quote-section">
+        <blockquote>
+            "I don't believe in taking right decisions. I take decisions and then make them right."
+        </blockquote>
+        <footer>– Ratan Tata</footer>
+    </div>
+</div>
+
+<div class="footer">
+    <p>Tribute page designed by <a href="https://www.example.com" target="_blank">Yogesh Kadwe</a></p>
+</div>
+
+</body>
+</html>
